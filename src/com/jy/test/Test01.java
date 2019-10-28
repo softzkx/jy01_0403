@@ -14,7 +14,7 @@ public class Test01 {
 
 	public static void main(String[] args) {
 		
-		sayHello(3);
+		sayHello(5);
 	}
 	
 	/**
